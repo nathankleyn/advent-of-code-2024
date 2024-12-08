@@ -1,0 +1,9 @@
+[package]
+name = "day-5"
+version = "0.1.0"
+authors = ["Nathan Kleyn <nathan@nathankleyn.com>"]
+edition = "2021"
+
+[dependencies]
+itertools = "0.13.0"
+topo_sort = "0.4.0"
