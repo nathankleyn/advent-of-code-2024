@@ -41,10 +41,10 @@ dependencies = [
 [[package]]
 name = "day-6"
 version = "0.1.0"
-dependencies = [
- "itertools",
- "topo_sort",
-]
+
+[[package]]
+name = "day-7"
+version = "0.1.0"
 
 [[package]]
 name = "either"
